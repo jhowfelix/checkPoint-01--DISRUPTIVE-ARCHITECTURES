@@ -10,7 +10,7 @@
 ## Objetivo / descrição do Projeto
 
 Objetivo de encontrar o valor APROXIMADO de um apartamento com 65m2, 2 quartos, reformado e localizado no Centro. 
-
+Com a utilização de dois algoritmos, sendo um Random forest e outro Regressão linear 
 
 ## Como usar 
 
